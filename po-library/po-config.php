@@ -23,9 +23,9 @@ define('PO_DIRECTORY_PATH_LIB', $dir['lib']);
 $db['host']          	= "localhost";
 $db['sock']          	= "";
 $db['port']          	= "";
-$db['user']          	= "root";
-$db['passwd']			= "461947";
-$db['db']				= "rsparurotinsulu";
+$db['user']          	= "superadmin";
+$db['passwd']			= "superman";
+$db['db']				= "popoji";
 
 define('DATABASE_HOST', $db['host']);
 define('DATABASE_SOCK', $db['sock']);
